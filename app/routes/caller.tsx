@@ -90,7 +90,7 @@ export const BINGO_CALLS: {[n: number]: string} = {
   7: `Lucky`,
   8: `Garden gate`,
   9: `Brighton line`,
-  10: `Rishi's Den`,
+  10: `Kier's Den`,
   11: `Legs eleven`,
   12: `One dozen`,
   13: `Unlucky for some`,
